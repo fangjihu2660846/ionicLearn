@@ -19,6 +19,6 @@
 
    ![ionic-tabs](./images/ionic-tabs.png)
 
-   4. 上述文件下载好，把 “ionic2-starter-tabs” src 中的 app 和 pages 这个两个文件夹复制到 “ionic2-app-base” 的 src 中。最后，“ionic2-app-base” 就是一个完整的 tabs app 项目了，安装依赖即可运行项目，创建其他类型的 app 项目也可以这样操作。
+4. 上述文件下载好，把 “ionic2-starter-tabs” src 中的 app 和 pages 这个两个文件夹复制到 “ionic2-app-base” 的 src 中。最后，“ionic2-app-base” 就是一个完整的 tabs app 项目了，安装依赖即可运行项目，创建其他类型的 app 项目也可以这样操作。
 
       
